@@ -1,5 +1,5 @@
 # Cars10
-Cars10 is a CS:GO stats bot that pulls data from steams API. This is my first codeing project, so could properly be a lot cleaner code. But hey, it works!
+Cars10 is a CS:GO stats bot that pulls data from steams API. This is my first coding project, so could properly be a lot cleaner code. But hey, it works!
 
 1. Add bot token to TOKEN ="Insert here"
 2. Run bot in your channel
